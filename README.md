@@ -98,16 +98,12 @@ This repository is meant for your learning and personal portfolio. If you wish t
 ## 📫 Contact & Support
 
 If you face issues or have questions:  
-- Contact your mentorship instructor or session leader at CampusX  
-- Raise an issue in this repo with details (if public collaboration is allowed)  
+- Contact me Rajatsingh900k 
+- Raise an issue in this repo with details  
 
 ---
 
 ## 📜 License
 
-This repository’s code and materials are licensed under the [MIT License](LICENSE) (or whichever license you select).  
-Feel free to use for personal learning and portfolio building. Commercial redistribution may require permission.
+This repository’s code and materials are licensed under the [MIT License](LICENSE)
 
----
-
-Thank you for being part of the CampusX DSMP program — let’s dive into data science! 🚀
