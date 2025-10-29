@@ -107,3 +107,7 @@ If you face issues or have questions:
 
 This repository’s code and materials are licensed under the [MIT License](LICENSE)
 
+## Add Star
+
+If you found this repository useful please put a star.
+
